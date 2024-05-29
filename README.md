@@ -1,2 +1,5 @@
 # dice-roll
-자바스크립트로 이용한 더 예뻐진 주사위 돌리기 만들기
+셔플버튼을 누르면 주사위가 돌아갑니다.
+![image](https://github.com/jung-chaewon/dice-roll/assets/131144717/333e94bf-83d3-4155-aebb-b2ca6f7854d5)
+
+
